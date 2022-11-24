@@ -1,0 +1,33 @@
+main {
+    width: 100%;
+    background: linear-gradient(287.15deg, #450E4B 0%, #3C0C41 24.48%, rgba(207, 0, 99, 0) 100%),
+        linear-gradient(0deg, #CF0063, #CF0063) !important;
+    padding-top: 60px;
+}
+
+main .car {
+    padding-top: 100px;
+    color: white !important;
+}
+main .car h1{
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 80px;
+}
+main .car p{
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 44px;
+    margin-top: 10px;
+}
+main .car button{
+    margin-top: 30px;
+    background: rgba(252, 10, 126, 1);
+    padding: 20px 40px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: white;
+}

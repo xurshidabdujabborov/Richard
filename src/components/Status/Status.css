@@ -1,0 +1,18 @@
+.status{
+    width: 100%;
+    margin-top: 150px;
+}
+.status .box{
+    text-align: left;
+    margin-bottom: 70px;
+}
+.status .box img{
+    margin-bottom: 70px;
+}
+.status .box h2.title{
+    color: black !important;
+}
+.status .box P.text{
+    padding: 0;
+    margin: 0;
+}

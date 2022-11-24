@@ -1,0 +1,22 @@
+.Auther{
+    width: 100%;
+    margin-top: 150px;
+}
+.Auther .box{
+    text-align: center;
+}
+.Auther .box svg:hover path{
+   fill: gold;
+   cursor: pointer;
+}
+.Auther .box p.text{
+    text-align: center !important;
+}
+.Auther .box h5{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+}

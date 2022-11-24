@@ -1,0 +1,62 @@
+.Bottom {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.Bottom img {
+    width: 100%;
+}
+
+.Bottom .mul {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(287.15deg, #450E4B 0%, #3C0C41 24.48%, rgba(207, 0, 99, 0) 100%),
+        linear-gradient(0deg, #CF0063, #CF0063);
+}
+
+.Bottom .flex {
+    position: absolute;
+    top: 760%;
+    left: 40%;
+    text-align: center;
+}
+
+.Bottom .flex h2.title {
+    margin: 0;
+    padding: 0;
+}
+
+.Bottom .flex button {
+    background-color: #CF0063;
+    padding: 20px 40px;
+    margin: 0px 10px;
+    margin-top: 40px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: white;
+    text-align: center;
+}
+.Bottom .flex button:hover{
+    background-color: #450E4B;
+    cursor: pointer;
+    transition: 1s;
+}
+.Bottom .flex a{
+    padding: 20px 40px;
+    border: 1px solid white;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: white;
+    text-align: center;
+}
+.Bottom .flex a:hover{
+    background-color: #CF0063;
+    cursor: pointer;
+    transition: 1s;
+    border: none;
+}

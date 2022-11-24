@@ -1,0 +1,21 @@
+.nav {
+    width: 100%;
+    background: linear-gradient(287.15deg, #450E4B 0%, #3C0C41 24.48%, rgba(207, 0, 99, 0) 100%),
+        linear-gradient(0deg, #CF0063, #CF0063) !important;
+        padding: 40px 0px;
+}
+.nav ul{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 15px;
+}
+.nav ul li{
+    margin: 0px 30px;
+}
+.nav ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: white;
+}
